@@ -4,3 +4,4 @@
 ## Tech Stack used
 - TypeScript
 - React
+- CSS
